@@ -1,1 +1,21 @@
 /* Write your CSS here! */
+
+body {
+    display: block;
+    margin: 8px;
+    padding: 70px;
+    border: 1px solid #ffffff;
+    background-color: #999;
+    font-size: 12pt;
+    font-family: Arial;
+    text-align: center;
+}
+
+#mainHeading {
+color: rgb(102, 10, 10);    
+}
+
+.funParagraph
+ { 
+    color:rgb(15, 106, 15)
+  }
