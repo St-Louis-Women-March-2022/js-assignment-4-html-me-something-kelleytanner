@@ -12,10 +12,11 @@ body {
 }
 
 #mainHeading {
-color: rgb(102, 10, 10);    
+color: red;    
 }
 
 .funParagraph
  { 
     color:rgb(15, 106, 15)
   }
+
