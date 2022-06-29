@@ -1,23 +1,33 @@
 /* Write your CSS here! */
 
+
 body {
-    display: block;
+   
     margin: 8px;
-    padding: 70px;
-    border: 1px solid #ffffff;
-    background-color: #999;
-    font-size: 12pt;
+    display: block;
     font-family: Arial;
-    text-align: center;
+    background-image: url("images/backgroundcolorblock.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(205, 180, 52);
+    height: 500px;
+    background-attachment: fixed;
+    }
+
+main {
+border: 2px solid rgb(255, 255, 255);
+border-radius: 5px;
+border-style: double;
 }
 
 #mainHeading {
-color: red;    
+color: red;
+font-size: 0;
 }
 
-.funParagraph { 
-color: green;
-}
 .funParagraph {
 color: green;
+font-size: 0;
 }
+
+
