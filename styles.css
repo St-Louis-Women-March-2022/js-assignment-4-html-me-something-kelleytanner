@@ -1,1 +1,58 @@
 /* Write your CSS here! */
+
+
+body {
+   
+    margin: 8px;
+    display: block;
+    font-family: "Trebuchet MS";
+    color: rgb(68, 46, 46);
+    text-align: center;
+    background-image: url("images/backgroundcolorblock.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(205, 180, 52);
+    height: 500px;
+    background-attachment: fixed;
+    }
+
+
+
+main {
+border: 1px solid rgb(248, 238, 244);
+border-radius: 5px;
+border-style: dashed;
+}
+
+#mainHeading {
+color: red;
+font-size: 0;
+}
+
+.funParagraph {
+color: green;
+font-size: 0;
+}
+
+h1 {
+    margin-bottom: -5px;
+}
+
+h2{
+    font-family: "Brush Script MT";
+    font-size: 70px;
+    color: rgb(246, 229, 229);
+    text-shadow: 2px 2px 5px rgb(68, 46, 46);
+    margin-bottom: -5px;
+    margin-top: -2px;
+}
+
+.images {
+    border-radius: 8px;
+    border: 5px solid rgb(237, 226, 226);
+  }
+section {
+border: 1px solid rgb(248, 238, 244);
+border-radius: 5px;
+border-style: dashed;
+}
