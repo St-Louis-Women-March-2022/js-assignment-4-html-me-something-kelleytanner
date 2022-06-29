@@ -5,7 +5,8 @@ body {
    
     margin: 8px;
     display: block;
-    font-family: Arial;
+    font-family: "Trebuchet MS";
+    color: rgb(38, 36, 36);
     text-align: center;
     background-image: url("images/backgroundcolorblock.jpg");
     background-size: cover;
@@ -14,7 +15,11 @@ body {
     height: 500px;
     background-attachment: fixed;
     }
+
 h1 {
+    font-family: 'Luminari';
+    font-weight: normal;
+    font-style: normal;
     color:rgb(248, 238, 244);
     font-size: 40px;
 }
@@ -33,6 +38,12 @@ font-size: 0;
 .funParagraph {
 color: green;
 font-size: 0;
+}
+
+h2{
+    font-family: "Brush Script MT";
+    font-size: 50px;
+    color: rgb(246, 229, 229);
 }
 
 
