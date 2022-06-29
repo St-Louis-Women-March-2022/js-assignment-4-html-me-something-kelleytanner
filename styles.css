@@ -6,6 +6,7 @@ body {
     margin: 8px;
     display: block;
     font-family: Arial;
+    text-align: center;
     background-image: url("images/backgroundcolorblock.jpg");
     background-size: cover;
     background-position: center;
@@ -13,9 +14,13 @@ body {
     height: 500px;
     background-attachment: fixed;
     }
+h1 {
+    color:rgb(248, 238, 244);
+    font-size: 40px;
+}
 
 main {
-border: 2px solid rgb(255, 255, 255);
+border: 2px solid rgb(248, 238, 244);
 border-radius: 5px;
 border-style: double;
 }
